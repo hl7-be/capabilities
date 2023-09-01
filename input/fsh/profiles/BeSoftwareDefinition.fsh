@@ -6,4 +6,5 @@ Id: be-software-definition
 * manufacturerReference  1..1 MS
 * version 0..1 MS
 * type 1..1 MS
+* type from BeVSEhealthSoftwareArchitectureType (required)
 * deviceName 1..1 MS
