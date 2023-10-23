@@ -1,6 +1,6 @@
-Empty IG
+Capabilities
 ---
-This is an empty IG
+This is the IG for the capabilities server.
 <br> </br>
 ###
 ### Publication
