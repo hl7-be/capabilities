@@ -1,5 +1,6 @@
 Capabilities
 ---
+
 This is the IG for the capabilities server.
 <br> </br>
 ###
